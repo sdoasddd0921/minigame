@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minigame/static/css/main.b81396c6.chunk.css",
+    "main.css": "/minigame/static/css/main.20638b8c.chunk.css",
     "main.js": "/minigame/static/js/main.be82c41e.chunk.js",
     "main.js.map": "/minigame/static/js/main.be82c41e.chunk.js.map",
     "runtime~main.js": "/minigame/static/js/runtime~main.b1ff0f94.js",
@@ -9,10 +9,10 @@
     "static/js/2.592301bc.chunk.js": "/minigame/static/js/2.592301bc.chunk.js",
     "static/js/2.592301bc.chunk.js.map": "/minigame/static/js/2.592301bc.chunk.js.map",
     "index.html": "/minigame/index.html",
-    "precache-manifest.4ef4ab281477bfe5fa6aa1bd2c2da828.js": "/minigame/precache-manifest.4ef4ab281477bfe5fa6aa1bd2c2da828.js",
+    "precache-manifest.f1f05f1bdfa52409002a24520c9e08bd.js": "/minigame/precache-manifest.f1f05f1bdfa52409002a24520c9e08bd.js",
     "service-worker.js": "/minigame/service-worker.js",
     "static/css/2.f815075f.chunk.css.map": "/minigame/static/css/2.f815075f.chunk.css.map",
-    "static/css/main.b81396c6.chunk.css.map": "/minigame/static/css/main.b81396c6.chunk.css.map",
+    "static/css/main.20638b8c.chunk.css.map": "/minigame/static/css/main.20638b8c.chunk.css.map",
     "static/media/signUp.scss": "/minigame/static/media/header.a5169ac8.jpg"
   }
 }

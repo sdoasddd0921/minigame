@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac94b425a7216f4419cfc564fb94b0e8",
+    "revision": "38607abf56cde71846f723b2b697099a",
     "url": "/minigame/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minigame/static/css/2.f815075f.chunk.css"
   },
   {
-    "revision": "994f2bfeaa8866e903ce",
-    "url": "/minigame/static/css/main.b81396c6.chunk.css"
+    "revision": "20a357cc53ff05c30656",
+    "url": "/minigame/static/css/main.20638b8c.chunk.css"
   },
   {
     "revision": "73c12a80ecd84aad76d2",
     "url": "/minigame/static/js/2.592301bc.chunk.js"
   },
   {
-    "revision": "994f2bfeaa8866e903ce",
+    "revision": "20a357cc53ff05c30656",
     "url": "/minigame/static/js/main.be82c41e.chunk.js"
   },
   {
